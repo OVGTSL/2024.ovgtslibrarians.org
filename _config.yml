@@ -65,6 +65,14 @@ conference:
     links:
       - name: Proposals
         relative_url: /proposals/
+      - name: Attend
+        menu:
+          - name: Registration
+            absolute_url: https://www.eventbrite.com/e/ovgtsl-conference-2024-registration-795359771487
+            disabled: False
+          - name: Hotel
+            absolute_url: https://www.hilton.com/en/attend-my-event/ohiovalleygrptsl-90w/
+            disabled: False
 
   # Main landing page
   main:
