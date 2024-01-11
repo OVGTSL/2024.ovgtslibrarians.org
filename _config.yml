@@ -73,6 +73,12 @@ conference:
       - name: Submit a Proposal
         relative_url: /proposals/
         disabled: False
+      - name: Reserve a Room
+        absolute_url: https://www.hilton.com/en/attend-my-event/ohiovalleygrptsl-90w/
+        disabled: False
+      - name: Register
+        absolute_url: https://www.eventbrite.com/e/ovgtsl-conference-2024-registration-795359771487
+        disabled: False
 
   # Information boxes
   info_bars:

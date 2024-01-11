@@ -12,8 +12,9 @@ layout: home
 ### **Main Location**: [The Conference Center at OCLC](https://conference-center.oclc.org/home.html)
 ### **Conference Hotel**: [Embassy Suites by Hilton](https://www.hilton.com/en/hotels/cmheses-embassy-suites-columbus-dublin)  
 
-A block of rooms will be made available at $139.00 per night, including parking. Reservations made outside of 
-the group block will incur a self-parking fee of $10/day. Reservations must be made before April 30th, 2024 to 
-qualify for the OVGTSL rate.
+A block of rooms is available at $139.00 per night, including parking. [Reserve a Room](https://www.hilton.com/en/attend-my-event/ohiovalleygrptsl-90w/)
+
+Reservations made outside of the group block will incur a self-parking fee of $10/day. Reservations must be 
+made before April 30th, 2024 to qualify for the OVGTSL rate.
 
 **Local Attractions**: [https://www.visitdublinohio.com/](https://www.visitdublinohio.com/)
