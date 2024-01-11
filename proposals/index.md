@@ -38,7 +38,7 @@ formats are welcome.
 The conference will be hybrid so the audience can attend in person or virtually. The presenters will attend onsite at 
 the Dublin conference. The sessions will be recorded for registrants to access for two months after the conference.
  
-**Proposal form:** [TBD]
+**Proposal form:** [https://ovg.tsl/2024](https://docs.google.com/forms/d/e/1FAIpQLSdbwJ_XdLcLmZpG8yVY6Afex8Ds6_kWKM-lwZvgw3TjMl4N1A/viewform?usp=sf_link)
  
 **Proposals due:** February 9, 2024
  
