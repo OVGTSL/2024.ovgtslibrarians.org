@@ -1,7 +1,7 @@
-title: Conference 2020
+title: OVGTSL Conference 2024
 preposition: ''
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  A Century of OVGTSL: Technical Services in the Past, Present, and Future
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -51,10 +51,36 @@ defaults:
     values:
       layout: room
 
-# Theme default values
+
 conference:
+
+  # Language
   lang: en
-  show_errors: True
+
+  # Show theme errors:
+  show_errors: False
+
+  # Navigation bar
+  navigation:
+    links:
+      - name: Proposals
+        relative_url: /proposals/
+
+  # Main landing page
+  main:
+    img: 'oclc_conference_center.jpg'
+    links:
+      - name: Submit a Proposal
+        relative_url: /proposals/
+        disabled: False
+
+  # Information boxes
+  info_bars:
+    - title: SUBMIT A PROPOSAL!
+      color: primary
+      main_only: true
+      text: |
+        Proposals accepted until February 9, 2024 - see the [proposals](/proposals/) page for details.
 
   link_preview:
     disable: false

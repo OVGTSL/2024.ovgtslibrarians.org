@@ -14,3 +14,4 @@ venv/
 
 ### MacOS ###
 .DS_Store
+.idea
