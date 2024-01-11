@@ -2,8 +2,8 @@ title: OVGTSL Conference 2024
 preposition: ''
 description: >-
   A Century of OVGTSL: Technical Services in the Past, Present, and Future
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/"
+url: "https://2024.ovgtslibrarians.org"
 
 # Build settings
 markdown: kramdown
