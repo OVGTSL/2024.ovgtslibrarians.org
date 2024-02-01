@@ -63,8 +63,8 @@ conference:
   # Navigation bar
   navigation:
     links:
-      - name: Proposals
-        relative_url: /proposals/
+#      - name: Proposals
+#        relative_url: /proposals/
       - name: Attend
         menu:
           - name: Registration
@@ -78,9 +78,9 @@ conference:
   main:
     img: 'oclc_conference_center.jpg'
     links:
-      - name: Submit a Proposal
-        relative_url: /proposals/
-        disabled: False
+#      - name: Submit a Proposal
+#        relative_url: /proposals/
+#        disabled: False
       - name: Reserve a Room
         absolute_url: https://www.hilton.com/en/attend-my-event/ohiovalleygrptsl-90w/
         disabled: False
@@ -89,12 +89,12 @@ conference:
         disabled: False
 
   # Information boxes
-  info_bars:
-    - title: SUBMIT A PROPOSAL!
-      color: primary
-      main_only: true
-      text: |
-        Proposals accepted until February 9, 2024 - see the [proposals](/proposals/) page for details.
+#  info_bars:
+#    - title: SUBMIT A PROPOSAL!
+#      color: primary
+#      main_only: true
+#      text: |
+#        Proposals accepted until February 9, 2024 - see the [proposals](/proposals/) page for details.
 
   link_preview:
     disable: false
