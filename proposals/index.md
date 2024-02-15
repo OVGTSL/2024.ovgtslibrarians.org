@@ -40,9 +40,9 @@ the Dublin conference. The sessions will be recorded for registrants to access f
  
 **Proposal form:** [https://ovg.tsl/2024](https://docs.google.com/forms/d/e/1FAIpQLSdbwJ_XdLcLmZpG8yVY6Afex8Ds6_kWKM-lwZvgw3TjMl4N1A/viewform?usp=sf_link)
  
-**Proposals due:** February 9, 2024
+**Proposals due:** February 29, 2024
  
-**Notification of accept or decline:** *late* February 2024
+**Notification of accept or decline:** early March 2024
  
 If you have questions, please contact **Morris Levy**, Vice Chair/Chair Elect of OVGTSL and host of the 2024 Conference 
 at [levymo@oclc.org](mailto:levymo@oclc.org).
