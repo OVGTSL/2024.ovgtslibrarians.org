@@ -100,7 +100,7 @@ conference:
   #    main_only: true
   #    text: |
   #      Proposals accepted through February 29, 2024 - see the [proposals](/proposals/) page for details.
-    - title: NOW ACCEPTING STUDENT SCHOLARSHIP APPLICATION!
+    - title: NOW ACCEPTING STUDENT SCHOLARSHIP APPLICATIONS!
       color: primary
       main_only: true
       text: |
