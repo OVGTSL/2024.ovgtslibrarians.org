@@ -65,6 +65,8 @@ conference:
     links:
       #- name: Proposals
       #  relative_url: /proposals/
+      - name: Scholarships
+        relative_url: /scholarships/
       - name: Attend
         menu:
           - name: Registration
@@ -81,6 +83,9 @@ conference:
       #- name: Submit a Proposal
       #  relative_url: /proposals/
       #  disabled: False
+      - name: Scholarship Application
+        relative_url: /scholarships/
+        disabled: False
       - name: Reserve a Room
         absolute_url: https://www.hilton.com/en/attend-my-event/ohiovalleygrptsl-90w/
         disabled: False
@@ -89,12 +94,17 @@ conference:
         disabled: False
 
   # Information boxes
-  #info_bars:
+  info_bars:
   #  - title: SUBMIT A PROPOSAL!
   #    color: primary
   #    main_only: true
   #    text: |
   #      Proposals accepted through February 29, 2024 - see the [proposals](/proposals/) page for details.
+    - title: NOW ACCEPTING STUDENT SCHOLARSHIP APPLICATION!
+      color: primary
+      main_only: true
+      text: |
+        Applications accepted through March 18, 2024 - see the [scholarships](/scholarships/) page for details.
 
   link_preview:
     disable: false
