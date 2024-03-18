@@ -11,16 +11,12 @@
 
 {%- elsif link.file -%}
   {%- assign link_icon = "file-alt" -%}
-
   {%- if talk -%}
     {%- assign link_href = link.file | prepend: '/documents/slides/' | prepend: site.baseurl -%}
-
   {%- elsif speaker -%}
     {%- assign link_href = link.file | prepend: '/documents/bio/' | prepend: site.baseurl -%}
-
   {%- else -%}
     {%- assign link_href = link.file | prepend: '/documents/' | prepend: site.baseurl -%}
-
   {%- endif -%}
 
 {%- elsif link.video -%}
@@ -53,18 +49,19 @@
       {%- endif -%}
     {%- endcapture -%}
     {%- assign modal_footer = link.name -%}
-
   {%- endif -%}
-
 {%- else -%}
   {%- assign link_disabled = true -%}
-
 {%- endif -%}
 
-{%- capture link_tag -%}
-  {%- if link.disabled -%}
-    <a class="disabled{% if link_styleclass %} {{ link_styleclass }}{% endif %}" href="#">
 
+<!-- LINK TAG -->
+{%- capture link_tag -%}
+
+  {%- if link.disabled -%}
+    <a class="disabled {% if link_styleclass %} {{ link_styleclass }}{% endif %}" href="#" style="display: none;">
+  {%- elsif link.hide -%}
+    <a style="display: none;">
   {%- elsif link_iframe -%}
     <a {% if link_styleclass %}class="{{ link_styleclass }}"{% endif %} title="{{ link.name }}" data-toggle="modal" data-target="#link-modal" data-href="{{ link_href }}" href="#" {% if modal_title -%}
       data-format='html' data-title="{{ modal_title | strip_newlines | escape }}" {%- if modal_subtitle %} data-subtitle="{{ modal_subtitle | strip_newlines | escape }}"{%- endif -%}
@@ -77,7 +74,7 @@
     {%- endif %}>
 
   {%- else -%}
-    <a{% if link_styleclass %} class="{{ link_styleclass }}"{% endif %} href="{{ link_href }}" title="{{ link.name }}">
+    <a {% if link_styleclass %} class="{{ link_styleclass }}"{% endif %} href="{{ link_href }}" title="{{ link.name }}">
 
   {%- endif -%}
 {%- endcapture -%}

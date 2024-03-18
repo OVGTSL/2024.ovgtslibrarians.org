@@ -2,8 +2,8 @@ title: OVGTSL Conference 2024
 preposition: ''
 description: >-
   A Century of OVGTSL: Technical Services in the Past, Present, and Future
-baseurl: "/"
-url: "https://2024.ovgtslibrarians.org"
+#baseurl: "/"
+#url: "https://2024.ovgtslibrarians.org"
 
 # Build settings
 markdown: kramdown
@@ -52,46 +52,57 @@ defaults:
       layout: room
 
 
+# ------------------------------------------------------
+# CONFERENCE
+# ------------------------------------------------------
 conference:
-
-  # Language
-  lang: en
-
-  # Show theme errors:
-  show_errors: False
+  lang: en  # Language
+  show_errors: False  # Show theme errors
 
   # Navigation bar
   navigation:
     links:
-      #- name: Proposals
-      #  relative_url: /proposals/
-      - name: Scholarships
-        relative_url: /scholarships/
+      - name: Proposals
+        relative_url: /proposals/
+        #disabled: true
+        hide: true
       - name: Attend
         menu:
           - name: Registration
             absolute_url: https://www.eventbrite.com/e/ovgtsl-conference-2024-registration-795359771487
-            disabled: False
+            disabled: false
           - name: Hotel
             absolute_url: https://www.hilton.com/en/attend-my-event/ohiovalleygrptsl-90w/
-            disabled: False
+            disabled: false
+      - name: Program
+        relative_url: /program//#thursday
+        disabled: false
+        hide: false
+      - name: Scholarships
+        relative_url: /scholarships/
+        disabled: false
+        hide: false
 
   # Main landing page
   main:
     img: 'oclc_conference_center.jpg'
     links:
-      #- name: Submit a Proposal
-      #  relative_url: /proposals/
-      #  disabled: False
+      - name: Submit a Proposal
+        relative_url: /proposals/
+        disabled: True
+        hide: true
       - name: Scholarship Application
         relative_url: /scholarships/
         disabled: False
+        hide: false
       - name: Reserve a Room
         absolute_url: https://www.hilton.com/en/attend-my-event/ohiovalleygrptsl-90w/
         disabled: False
+        hide: false
       - name: Register for Conference
         absolute_url: https://www.eventbrite.com/e/ovgtsl-conference-2024-registration-795359771487
         disabled: False
+        hide: false
 
   # Information boxes
   info_bars:
@@ -109,6 +120,20 @@ conference:
   link_preview:
     disable: false
 
+  talks:
+    # Talk categories
+    main_categories:
+      - name: General
+        color: secondary
+      - name: Keynote
+        color: warning
+      - name: Room A
+        color: primary
+      - name: Room B
+        color: info
+      - name: Room C
+        color: success
+
   speakers:
     show_firstname: true
 
@@ -120,3 +145,4 @@ conference:
     url: '/program'
     time_steps: 15
     show_alltimes: true
+    show_categories: false
