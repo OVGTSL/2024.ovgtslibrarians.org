@@ -1,8 +1,9 @@
 ---
 name: "Concerning Classification: American Alternative Classification Systems 1930 - Today"
 speakers:
-  - Sasha Frizzell, Binghamton University
+  - Sasha Frizzell
 categories:
   - Talk
-hide: true
+  - Room A
+hide: false
 ---

@@ -1,5 +1,6 @@
 ---
-name: Reception
+name: Lunch
 categories:
   - General
+hide: true
 ---

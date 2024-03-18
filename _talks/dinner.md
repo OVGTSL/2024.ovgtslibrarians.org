@@ -1,5 +1,6 @@
 ---
-name: Reception
+name: Dinner
 categories:
   - General
+hide: true
 ---

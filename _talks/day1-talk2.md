@@ -1,8 +1,9 @@
 ---
 name: "Thrown Into the Fire: Experiences of New Electronic Resources Librarians"
 speakers:
-  - Karen Schifferdecker, Western Kentucky University
+  - Karen Schifferdecker
 categories:
   - Talk
-color: info
+  - Room B
+hide: true
 ---
