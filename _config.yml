@@ -2,8 +2,8 @@ title: OVGTSL Conference 2024
 preposition: ''
 description: >-
   A Century of OVGTSL: Technical Services in the Past, Present, and Future
-#baseurl: "/"
-#url: "https://2024.ovgtslibrarians.org"
+baseurl: "/"
+url: "https://2024.ovgtslibrarians.org"
 
 # Build settings
 markdown: kramdown
