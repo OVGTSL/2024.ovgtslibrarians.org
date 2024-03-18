@@ -1,0 +1,5 @@
+---
+name: Reception
+categories:
+  - General
+---
