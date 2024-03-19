@@ -1,5 +1,5 @@
 ---
-name: "Lightening Round"
+name: "Lightning Round"
 speakers:
   - Kumiko Reichert
   - Yi Jiang
