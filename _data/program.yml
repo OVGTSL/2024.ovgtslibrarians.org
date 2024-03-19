@@ -48,7 +48,7 @@ days:
           - name: "When you have a minute, tell me everything you know: express cataloger training for ETDs"
             time_start: '14:10'
             time_end: '15:00'
-          - name: "Lightening Round"
+          - name: "Lightning Round"
             time_start: '15:15'
             time_end: '16:05'
       - name: Room B

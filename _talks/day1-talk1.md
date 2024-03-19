@@ -5,5 +5,5 @@ speakers:
 categories:
   - Talk
   - Room A
-hide: false
+hide: true
 ---
