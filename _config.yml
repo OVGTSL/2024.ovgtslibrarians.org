@@ -2,7 +2,6 @@ title: OVGTSL Conference 2024
 preposition: ''
 description: >-
   A Century of OVGTSL: Technical Services in the Past, Present, and Future
-baseurl: "/"
 url: "https://2024.ovgtslibrarians.org"
 
 # Build settings
@@ -75,7 +74,7 @@ conference:
             absolute_url: https://www.hilton.com/en/attend-my-event/ohiovalleygrptsl-90w/
             disabled: false
       - name: Program
-        relative_url: /program//#thursday
+        relative_url: /program/#thursday
         disabled: false
         hide: false
       - name: Scholarships
