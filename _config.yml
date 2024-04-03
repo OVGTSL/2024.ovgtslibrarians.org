@@ -73,6 +73,9 @@ conference:
           - name: Hotel
             absolute_url: https://www.hilton.com/en/attend-my-event/ohiovalleygrptsl-90w/
             disabled: false
+          - name: Travel
+            relative_url: /travel/
+            disabled: false
       - name: Program
         relative_url: /program/#thursday
         disabled: false
@@ -100,6 +103,10 @@ conference:
         hide: false
       - name: Register for Conference
         absolute_url: https://www.eventbrite.com/e/ovgtsl-conference-2024-registration-795359771487
+        disabled: False
+        hide: false
+      - name: Travel Info
+        relative_url: /travel/
         disabled: False
         hide: false
 
