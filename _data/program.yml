@@ -53,7 +53,7 @@ days:
             time_end: '16:05'
       - name: Room B
         talks:
-          - name: "Thrown Into the Fire: Experiences of New Electronic Resources Librarians"
+          - name: "Leveraging Data in Good (Budget) Times and in Bad"
             time_start: '10:30'
             time_end: '11:20'
           - name: "Crossing Silos: An Experiment in Reconciling to the LCNAF Using Additional Attributes"
@@ -70,7 +70,7 @@ days:
           - name: "Service Evolution: How the University of Kentucky Libraries Is Providing Content Access"
             time_start: '14:10'
             time_end: '15:00'
-          - name: "Leveraging Data in Good (Budget) Times and in Bad"
+          - name: "Thrown Into the Fire: Experiences of New Electronic Resources Librarians"
             time_start: '15:15'
             time_end: '16:05'
 
