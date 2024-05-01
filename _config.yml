@@ -84,6 +84,10 @@ conference:
         relative_url: /scholarships/
         disabled: true
         hide: true
+      - name: Venue
+        relative_url: /venue/
+        disabled: false
+        hide: false
 
   # Main landing page
   main:
@@ -133,12 +137,16 @@ conference:
         color: secondary
       - name: Keynote
         color: warning
-      - name: Room A
+      - name: General Session Room
         color: primary
-      - name: Room B
+      - name: Training Room 1
         color: info
-      - name: Room C
+      - name: Training Room 3
         color: success
+      - name: Info
+        color: light
+      - name: Business
+        color: warning
 
   speakers:
     show_firstname: true
@@ -148,7 +156,7 @@ conference:
     map: true
 
   program:
-    url: '/program'
+    url: '/program#thursday'
     time_steps: 15
     show_alltimes: true
     show_categories: false

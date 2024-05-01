@@ -1,6 +1,6 @@
 ---
 name: Business Meeting
 categories:
-  - General
+  - Business
 hide: true
 ---

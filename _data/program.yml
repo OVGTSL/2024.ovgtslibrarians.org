@@ -11,49 +11,49 @@ days:
   - name: Thursday
     date: 2024-05-23
     rooms:
-      - name: Main
+      - name: Reception Area
         talks:
           - name: Check-in
             time_start: '8:00'
             time_end: '9:00'
-          - name: Welcoming Remarks
-            time_start: '9:00'
-            time_end: '9:15'
-          - name: Opening Keynote
-            time_start: '9:15'
-            time_end: '10:15'
           - name: Coffee Break
             time_start: '10:15'
             time_end: '10:30'
           - name: Lunch
             time_start: '12:30'
             time_end: '13:30'
-          - name: Business Meeting
-            time_start: '13:30'
-            time_end: '14:00'
           - name: Snack Break
             time_start: '15:00'
             time_end: '15:15'
           - name: Dinner
             time_start: '18:00'
             time_end: '20:00'
-      - name: Room A
+      - name: General Session Room
         talks:
-          - name: "Concerning Classification: American Alternative Classification Systems 1930 - Today"
+          - name: Welcoming Remarks
+            time_start: '9:00'
+            time_end: '9:15'
+          - name: Opening Keynote
+            time_start: '9:15'
+            time_end: '10:15'
+          - name: "Leveraging Data in Good (Budget) Times and in Bad"
             time_start: '10:30'
             time_end: '11:20'
           - name: "Benefits and limitations of data-driven decision making during large scale weeding projects"
             time_start: '11:30'
             time_end: '12:20'
+          - name: Business Meeting
+            time_start: '13:30'
+            time_end: '14:00'
           - name: "When you have a minute, tell me everything you know: express cataloger training for ETDs"
             time_start: '14:10'
             time_end: '15:00'
-          - name: "Lightning Round"
+          - name: "Thrown Into the Fire: Experiences of New Electronic Resources Librarians"
             time_start: '15:15'
             time_end: '16:05'
-      - name: Room B
+      - name: Training Room 1
         talks:
-          - name: "Leveraging Data in Good (Budget) Times and in Bad"
+          - name: "Concerning Classification: American Alternative Classification Systems 1930 - Today"
             time_start: '10:30'
             time_end: '11:20'
           - name: "Crossing Silos: An Experiment in Reconciling to the LCNAF Using Additional Attributes"
@@ -65,12 +65,12 @@ days:
           - name: "Charting Strange Lands Again"
             time_start: '15:15'
             time_end: '16:05'
-      - name: Room C
+      - name: Training Room 3
         talks:
           - name: "Service Evolution: How the University of Kentucky Libraries Is Providing Content Access"
             time_start: '14:10'
             time_end: '15:00'
-          - name: "Thrown Into the Fire: Experiences of New Electronic Resources Librarians"
+          - name: "Lightning Round"
             time_start: '15:15'
             time_end: '16:05'
 
@@ -78,34 +78,34 @@ days:
     abbr: Fri
     date: 2024-05-24
     rooms:
-      - name: Main
+      - name: Reception Area
         talks:
           - name: Check-in
             time_start: '8:30'
             time_end: '9:00'
-          - name: Closing Keynote
-            time_start: '9:00'
-            time_end: '10:00'
           - name: Coffee Break
             time_start: '10:00'
             time_end: '10:15'
-      - name: Room A
+      - name: General Session Room
         talks:
-          - name: "Creating Patron-Friendly Genealogy Collections: A Perspective"
+          - name: Closing Keynote
+            time_start: '9:00'
+            time_end: '10:00'
+          - name: "Looking for Trouble: Finding and Fixing Problems in Your Catalog"
             time_start: '10:15'
             time_end: '11:05'
           - name: "Navigating Careers in Technical Services: Maintaining Your Marketability"
             time_start: '11:15'
             time_end: '12:05'
-      - name: Room B
+      - name: Training Room 1
         talks:
-          - name: "Looking for Trouble: Finding and Fixing Problems in Your Catalog"
+          - name: "Creating Patron-Friendly Genealogy Collections: A Perspective"
             time_start: '10:15'
             time_end: '11:05'
           - name: "All Aboard! Faculty Onboarding in Collection Development: Case Study from Murray State University Libraries"
             time_start: '11:15'
             time_end: '12:05'
-      - name: Room C
+      - name: Training Room 3
         talks:
           - name: "'The Limits of My Language Means the Limits of My World': Assessing and Triaging Cataloging Backlogs for Materials in Non-Latin Scripts"
             time_start: '10:15'

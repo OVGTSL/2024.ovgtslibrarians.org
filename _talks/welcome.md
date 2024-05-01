@@ -1,6 +1,6 @@
 ---
 name: Welcoming Remarks
 categories:
-  - Keynote
+  - Business
 hide: true
 ---
