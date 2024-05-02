@@ -1,6 +1,6 @@
 ---
 name: Dinner
 categories:
-  - Info
+  - General
 hide: true
 ---

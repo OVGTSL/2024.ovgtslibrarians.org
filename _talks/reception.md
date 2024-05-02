@@ -1,5 +1,5 @@
 ---
 name: Reception
 categories:
-  - Info
+  - General
 ---
