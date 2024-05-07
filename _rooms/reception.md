@@ -1,5 +1,5 @@
 ---
-name: Reception Area
+name: Atrium
 hide: true
 ---
 

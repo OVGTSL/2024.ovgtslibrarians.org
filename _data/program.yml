@@ -11,14 +11,20 @@ days:
   - name: Thursday
     date: 2024-05-23
     rooms:
-      - name: Reception Area
+      - name: Atrium
         talks:
           - name: Check-in
             time_start: '8:00'
             time_end: '9:00'
+          - name: Coffee Break
+            time_start: '10:15'
+            time_end: '10:30'
           - name: Lunch
             time_start: '12:30'
             time_end: '13:30'
+          - name: Snack Break
+            time_start: '15:00'
+            time_end: '15:15'
       - name: General Session Room
         talks:
           - name: Welcoming Remarks
@@ -27,9 +33,6 @@ days:
           - name: Opening Keynote
             time_start: '9:15'
             time_end: '10:15'
-          - name: Coffee Break
-            time_start: '10:15'
-            time_end: '10:30'
           - name: "Leveraging Data in Good (Budget) Times and in Bad"
             time_start: '10:30'
             time_end: '11:20'
@@ -42,9 +45,6 @@ days:
           - name: "When you have a minute, tell me everything you know: express cataloger training for ETDs"
             time_start: '14:10'
             time_end: '15:00'
-          - name: Snack Break
-            time_start: '15:00'
-            time_end: '15:15'
           - name: "Thrown Into the Fire: Experiences of New Electronic Resources Librarians"
             time_start: '15:15'
             time_end: '16:05'
@@ -78,19 +78,19 @@ days:
     abbr: Fri
     date: 2024-05-24
     rooms:
-      - name: Reception Area
+      - name: Atrium
         talks:
           - name: Check-in
             time_start: '8:30'
             time_end: '9:00'
+          - name: Coffee Break
+            time_start: '10:00'
+            time_end: '10:15'
       - name: General Session Room
         talks:
           - name: Closing Keynote
             time_start: '9:00'
             time_end: '10:00'
-          - name: Coffee Break
-            time_start: '10:00'
-            time_end: '10:15'
           - name: "Looking for Trouble: Finding and Fixing Problems in Your Catalog"
             time_start: '10:15'
             time_end: '11:05'
