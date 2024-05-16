@@ -156,7 +156,8 @@ conference:
     map: true
 
   program:
-    url: '/program#thursday'
-    time_steps: 15
+    url: '/program'
+    time_steps: 5
     show_alltimes: true
+    show_quartertimesonly: false
     show_categories: false

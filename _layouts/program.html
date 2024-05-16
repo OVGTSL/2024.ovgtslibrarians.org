@@ -98,8 +98,18 @@
                   {{- current_time -}}
                 </th>
               {%- elsif site.conference.program.show_alltimes -%}
-                <th scope="row" class="col-title text-right text-muted font-weight-normal" style="z-index: {{ z-index-max }}">
+                <th scope="row" class="col-title text-right text-muted font-weight-normal" style="z-index: {{ z-index-max }}; padding: 0em;">
                   :{{ current_min }}
+                </th>
+              {%- elsif site.conference.program.show_quartertimesonly -%}
+                <th scope="row" class="col-title text-right text-muted font-weight-normal" style="z-index: {{ z-index-max }}; padding: 0em;">
+                  {%- if current_min == 15 -%}
+                    :{{ current_min }}
+                  {%- elsif current_min == 30 -%}
+                    :{{ current_min }}
+                  {%- elsif current_min == 45 -%}
+                    :{{ current_min }}
+                  {%- endif -%}
                 </th>
               {%- else -%}
                 <th scope="row" class="col-title" style="z-index: {{ z-index-max }}"></th>
