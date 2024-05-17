@@ -2,7 +2,6 @@
 name: "Service Evolution: How the University of Kentucky Libraries Is Providing Content Access" 
 speakers:
   - Courtney Taulbee
-  - Daniel Naas
 categories:
   - Talk
   - Training Room 3
