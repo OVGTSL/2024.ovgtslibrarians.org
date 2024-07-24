@@ -7,7 +7,7 @@ categories:
   - Training Room 1
 links:
   - name: Slides
-    file: The Devil Is In the Details Creating Thorough and Accessible Foreign Language Records.pdf
+    file: "The Devil Is In the Details Creating Thorough and Accessible Foreign Language Records.pdf"
 hide: false
 ---
 

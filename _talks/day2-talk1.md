@@ -7,7 +7,7 @@ categories:
   - Training Room 1
 links:
   - name: Slides
-    file: Creating Patron-Friendly Genealogy Collections.pdf
+    file: "Creating Patron-Friendly Genealogy Collections.pdf"
 hide: false
 ---
 

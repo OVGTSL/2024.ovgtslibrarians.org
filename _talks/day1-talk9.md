@@ -7,7 +7,7 @@ categories:
   - Training Room 3
 links:
   - name: Slides
-    file: Charting Strange Lands Again 2024.pdf
+    file: "Charting Strange Lands Again 2024.pdf"
 hide: false
 ---
 

@@ -8,11 +8,11 @@ categories:
   - Training Room 1
 links:
   - name: Slides - By the and For the Reader
-    file: Elevating Cataloging for the User Experience_2024YiJiang.pdf
+    file: "Elevating Cataloging for the User Experience_2024YiJiang.pdf"
   - name: Slides - Finding the Sweet Spot
-    file: ALF project_YiJiang2024.pdf
+    file: "ALF project_YiJiang2024.pdf"
   - name: Slides - Hepburn Romanization Revisited
-    file: Reichert_2024OVGTSL.pdf
+    file: "Reichert_2024OVGTSL.pdf"
 hide: false
 ---
 
