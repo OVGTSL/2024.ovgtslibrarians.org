@@ -5,6 +5,9 @@ speakers:
 categories:
   - Talk
   - Training Room 1
+links:
+  - name: Slides
+    file: Creating Patron-Friendly Genealogy Collections.pdf
 hide: false
 ---
 

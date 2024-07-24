@@ -9,6 +9,9 @@ speakers:
 categories:
   - Talk
   - General Session Room
+links:
+  - name: Slides
+    file: When you have a minute tell me everything you know.pdf
 hide: false
 ---
 
